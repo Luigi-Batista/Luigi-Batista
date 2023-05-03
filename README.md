@@ -46,10 +46,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Luigi-Batista/count.svg?"  />
-</div>
+<center>
+ <img src="https://github.com/Luigi-Batista/Luigi-Batista/blob/output/github-contribution-grid-snake.svg" />
+</center>
 
 ###
 
-![Snake animation](https://github.com/Luigi-Batista/Luigi-Batista/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Luigi-Batista/count.svg?"  />
+</div>
