@@ -51,3 +51,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Luigi-Batista/Luigi-Batista/blob/output/github-contribution-grid-snake.svg)
