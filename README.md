@@ -52,6 +52,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Luigi-Batista/count.svg?"  />
-</div>
+<p align="center">   
+   <img aling="center" src="https://profile-counter.glitch.me/Luigi-Batista/count.svg?"  />
+</p>
