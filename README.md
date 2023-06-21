@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Sou um Desenvolvedor Web front-end</h3>
+<h3 align="center">Sou um Desenvolvedor Front-End</h3>
 
 ###
 
